@@ -1,0 +1,10 @@
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\bin\Debug\Enunciado1.exe.config
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\bin\Debug\Enunciado1.exe
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\bin\Debug\Enunciado1.pdb
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.csproj.AssemblyReference.cache
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.Form1.resources
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.Properties.Resources.resources
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.csproj.GenerateResource.cache
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.csproj.CoreCompileInputs.cache
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.exe
+C:\Users\SebastianC\source\repos\Enunciado1\Enunciado1\obj\Debug\Enunciado1.pdb
